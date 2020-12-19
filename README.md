@@ -1,8 +1,10 @@
 # Data-Analysis-Skill-Test-4intelligence
 Data Analysis Skill Test, 4intelligence
 
-Hello! These files were made for the Data Analysis Skill Test from 4intelligence.
-I'm going to excuse myself because the code isn't clean as it should be, but I'm running out of time so better deliver this than zero.
+Hi! These files were made for 4intelligence's Data Analysis Skill Test. 
+I'm going to apologize because the code isn't as clean as it should be, 
+but unfortunately I'm running out of time, 
+so it's better to deliver this than zero.
 
 
 contact> email - juliana.eliseo@hotmail.com
